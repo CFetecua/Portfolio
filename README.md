@@ -38,7 +38,5 @@ Soy **Camilo**, un desarrollador Full Stack con más de un año de experiencia. 
 - **DevOps**: Docker, CI/CD, Vagrant.
 
 ## 📫 Contacto
-
-- **Correo electrónico**: [camilo.email@example.com](mailto:camilofetecua2011@gmail.com)
 - **LinkedIn**: [Camilo LinkedIn](www.linkedin.com/in/camilo-fetecua)
-- **Portafolio Web**: [www.tuportafolio.com](https://www.tuportafolio.com)
+- **Portafolio Web**: [www.tuportafolio.com](https://www.camilofetecua.online)
